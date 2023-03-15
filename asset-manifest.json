@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Black-Jack/static/css/main.f61a0518.css",
+    "main.js": "/Black-Jack/static/js/main.c51ff374.js",
+    "static/media/background.png": "/Black-Jack/static/media/background.e1eba38edadcefd71d6a.png",
+    "static/media/noise.png": "/Black-Jack/static/media/noise.0ba60faec12cdd0b1f93.png",
+    "static/media/coveredCard.png": "/Black-Jack/static/media/coveredCard.3d1389f5236d7ae508a6.png",
+    "static/media/BlackJack-logo.png": "/Black-Jack/static/media/BlackJack-logo.585e9b9e767d7acddc6f.png",
+    "index.html": "/Black-Jack/index.html",
+    "main.f61a0518.css.map": "/Black-Jack/static/css/main.f61a0518.css.map",
+    "main.c51ff374.js.map": "/Black-Jack/static/js/main.c51ff374.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61a0518.css",
+    "static/js/main.c51ff374.js"
+  ]
+}
